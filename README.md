@@ -22,6 +22,7 @@ Other features include search,filters,statistics and undo/redo.</p>
 
 <h1 align="center">OBSERVATIONS</h1>
 <p align="center">The code has no comments at the moment</p>
+<p align="center">The only available language is romanian</p>
 
 
 
