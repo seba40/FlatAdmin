@@ -19,6 +19,17 @@ Other features include search,filters,statistics and undo/redo.</p>
 <h1 align="center">INSTALLATION</h1>
 <p align="center">The application is not currently available for public release</p>
 <h1 align="center">SCREENSHOTS</h1>
+<p align="center"><img src="https://i.imgur.com/Tl8OCFh.png"></p>
+<p align="center"><img src="https://i.imgur.com/qDorQKS.png"></p>
+<p align="center"><img src="https://i.imgur.com/5YIPlK1.png"></p>
+<p align="center"><img src="https://i.imgur.com/kHmUjYY.png"></p>
+<p align="center"><img src="https://i.imgur.com/KVfZ6sh.png"></p>
+<p align="center"><img src="https://i.imgur.com/b0UDfc0.png"></p>
+
+
+
+
+
 
 <h1 align="center">OBSERVATIONS</h1>
 <p align="center">The code has no comments at the moment</p>
