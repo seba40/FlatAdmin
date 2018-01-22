@@ -1,12 +1,12 @@
 <h1 align="center">FlatAdmin</h1>
 
-<h3 align="center"> A small program made in python for apartament buildings administration</h3>
+<h3 align="center"> A small program made in python for apartment building administration</h3>
 <p align="center">
   <img  src="https://i.imgur.com/yOSaJ9I.png">
 </p>
 <h1 align="center">DESCRIPTION</h1>
 <p align="center">Similar to <a href="https://github.com/seba40/BiblioEdit">BiblioEdit</a> , this application was initially a homework.
-This was my first attempt at making a UI for my applications so i started with something simple called Tkinter. The application creates a database for <i>n</i> apartaments or import an existing one and you can add,modify or delete home-related expenses for each apartament.
+This was my first attempt at making a UI for my applications so i started with something simple called Tkinter. The application creates a database for <i>n</i> apartments or import an existing one and you can add,modify or delete home-related expenses for each apartment.
 Other features include search,filters,statistics and undo/redo.</p>
 <h1 align="center">BUILT WITH</h1>
  <p align="center">  <a href="http://www.eclipse.org/downloads/eclipse-packages/">Eclipse </a>- IDE</p>
